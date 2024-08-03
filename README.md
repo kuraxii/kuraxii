@@ -1,4 +1,4 @@
-### Hi there 👋 This is 彭于斌!
+### Hi there 👋 This is kuraxii!
 
 I make elegantly robust **💻 c++ and 🐧 operating system** wheels for fun. 🌈  
 
