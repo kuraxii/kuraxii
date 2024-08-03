@@ -8,7 +8,7 @@ I make elegantly robust **💻 c++ and 🐧 operating system** wheels for fun. �
 - 📫 How to reach me: zj.zhu.cn@gmail.com
 - 😄 Pronouns: he, she, you, me, I, we, us, this, them, that.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kuraxii&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kuraxii&layout=compact&count_private=true&theme=dark)
 
 
 
